@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="16" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T10:29:16Z" name="Suite" finished-at="2021-04-07T10:29:17Z" duration-ms="162">
+    <groups>
+      <group name="Integration">
+        <method signature="CreaatecontafctTest.Createcontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Createcontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreaatecontafctTest.Deletecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Deletecontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreaatecontafctTest.Validatecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Validatecontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreateOraganizationTest.Createorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" name="Createorg" class="Com.TestCase.CreateOraganizationTest"/>
+        <method signature="CreateOraganizationTest.Deleteorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" name="Deleteorg" class="Com.TestCase.CreateOraganizationTest"/>
+        <method signature="CreatemarCTest.CreatemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="CreatemarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatemarCTest.DeletemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="DeletemarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatevendorTest.Createvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Createvendor" class="Com.TestCase.CreatevendorTest"/>
+        <method signature="CreatevendorTest.Modifyvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Modifyvendor" class="Com.TestCase.CreatevendorTest"/>
+        <method signature="CreatevendorTest.Validatevendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Validatevendor" class="Com.TestCase.CreatevendorTest"/>
+      </group> <!-- Integration -->
+      <group name="Regression">
+        <method signature="CreaatecontafctTest.Createcontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Createcontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreaatecontafctTest.Deletecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Deletecontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreaatecontafctTest.Validatecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Validatecontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreateOraganizationTest.Createorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" name="Createorg" class="Com.TestCase.CreateOraganizationTest"/>
+        <method signature="CreateOraganizationTest.Deleteorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" name="Deleteorg" class="Com.TestCase.CreateOraganizationTest"/>
+        <method signature="CreateOraganizationTest.Modifyorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" name="Modifyorg" class="Com.TestCase.CreateOraganizationTest"/>
+        <method signature="CreatemarCTest.CreatemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="CreatemarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatemarCTest.DeletemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="DeletemarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatemarCTest.ModifymarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="ModifymarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatevendorTest.Createvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Createvendor" class="Com.TestCase.CreatevendorTest"/>
+        <method signature="CreatevendorTest.Modifyvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Modifyvendor" class="Com.TestCase.CreatevendorTest"/>
+        <method signature="CreatevendorTest.Validatevendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Validatevendor" class="Com.TestCase.CreatevendorTest"/>
+      </group> <!-- Regression -->
+      <group name="Smoketest">
+        <method signature="CreaatecontafctTest.Createcontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Createcontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreaatecontafctTest.Deletecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Deletecontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreaatecontafctTest.Validatecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" name="Validatecontafct" class="Com.TestCase.CreaatecontafctTest"/>
+        <method signature="CreateOraganizationTest.Createorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" name="Createorg" class="Com.TestCase.CreateOraganizationTest"/>
+        <method signature="CreatemarCTest.CreatemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="CreatemarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatemarCTest.DeletemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" name="DeletemarC" class="Com.TestCase.CreatemarCTest"/>
+        <method signature="CreatevendorTest.Createvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" name="Createvendor" class="Com.TestCase.CreatevendorTest"/>
+      </group> <!-- Smoketest -->
+    </groups>
+    <test started-at="2021-04-07T10:29:16Z" name="Test" finished-at="2021-04-07T10:29:17Z" duration-ms="162">
+      <class name="Com.TestCase.CreateOraganizationTest">
+        <test-method signature="Createorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" started-at="2021-04-07T10:29:17Z" name="Createorg" finished-at="2021-04-07T10:29:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createorg -->
+        <test-method signature="Deleteorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" started-at="2021-04-07T10:29:17Z" name="Deleteorg" finished-at="2021-04-07T10:29:17Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deleteorg -->
+        <test-method signature="Modifyorg()[pri:0, instance:Com.TestCase.CreateOraganizationTest@73a8da0f]" started-at="2021-04-07T10:29:17Z" name="Modifyorg" finished-at="2021-04-07T10:29:17Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Modifyorg -->
+      </class> <!-- Com.TestCase.CreateOraganizationTest -->
+      <class name="Com.TestCase.CreatevendorTest">
+        <test-method signature="Createvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" started-at="2021-04-07T10:29:17Z" name="Createvendor" finished-at="2021-04-07T10:29:17Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createvendor -->
+        <test-method signature="Modifyvendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" started-at="2021-04-07T10:29:17Z" name="Modifyvendor" finished-at="2021-04-07T10:29:17Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Modifyvendor -->
+        <test-method signature="Validatevendor()[pri:0, instance:Com.TestCase.CreatevendorTest@50dfbc58]" started-at="2021-04-07T10:29:17Z" name="Validatevendor" finished-at="2021-04-07T10:29:17Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatevendor -->
+      </class> <!-- Com.TestCase.CreatevendorTest -->
+      <class name="Com.TestCase.CreaatecontafctTest">
+        <test-method signature="Createcontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" started-at="2021-04-07T10:29:16Z" name="Createcontafct" finished-at="2021-04-07T10:29:16Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createcontafct -->
+        <test-method signature="Deletecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" started-at="2021-04-07T10:29:16Z" name="Deletecontafct" finished-at="2021-04-07T10:29:16Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletecontafct -->
+        <test-method signature="Validatecontafct()[pri:0, instance:Com.TestCase.CreaatecontafctTest@10f7f7de]" started-at="2021-04-07T10:29:17Z" name="Validatecontafct" finished-at="2021-04-07T10:29:17Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatecontafct -->
+      </class> <!-- Com.TestCase.CreaatecontafctTest -->
+      <class name="Com.TestCase.CreatemarCTest">
+        <test-method signature="CreatemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" started-at="2021-04-07T10:29:17Z" name="CreatemarC" finished-at="2021-04-07T10:29:17Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatemarC -->
+        <test-method signature="DeletemarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" started-at="2021-04-07T10:29:17Z" name="DeletemarC" finished-at="2021-04-07T10:29:17Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletemarC -->
+        <test-method signature="ModifymarC()[pri:0, instance:Com.TestCase.CreatemarCTest@4416d64f]" started-at="2021-04-07T10:29:17Z" name="ModifymarC" finished-at="2021-04-07T10:29:17Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifymarC -->
+      </class> <!-- Com.TestCase.CreatemarCTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
